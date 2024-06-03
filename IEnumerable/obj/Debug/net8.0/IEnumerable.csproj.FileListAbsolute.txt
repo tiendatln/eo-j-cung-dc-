@@ -1,0 +1,14 @@
+D:\C#\Console\LinQ\IEnumerable\bin\Debug\net8.0\IEnumerable.exe
+D:\C#\Console\LinQ\IEnumerable\bin\Debug\net8.0\IEnumerable.deps.json
+D:\C#\Console\LinQ\IEnumerable\bin\Debug\net8.0\IEnumerable.runtimeconfig.json
+D:\C#\Console\LinQ\IEnumerable\bin\Debug\net8.0\IEnumerable.dll
+D:\C#\Console\LinQ\IEnumerable\bin\Debug\net8.0\IEnumerable.pdb
+D:\C#\Console\LinQ\IEnumerable\obj\Debug\net8.0\IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Console\LinQ\IEnumerable\obj\Debug\net8.0\IEnumerable.AssemblyInfoInputs.cache
+D:\C#\Console\LinQ\IEnumerable\obj\Debug\net8.0\IEnumerable.AssemblyInfo.cs
+D:\C#\Console\LinQ\IEnumerable\obj\Debug\net8.0\IEnumerable.csproj.CoreCompileInputs.cache
+D:\C#\Console\LinQ\IEnumerable\obj\Debug\net8.0\IEnumerable.dll
+D:\C#\Console\LinQ\IEnumerable\obj\Debug\net8.0\refint\IEnumerable.dll
+D:\C#\Console\LinQ\IEnumerable\obj\Debug\net8.0\IEnumerable.pdb
+D:\C#\Console\LinQ\IEnumerable\obj\Debug\net8.0\IEnumerable.genruntimeconfig.cache
+D:\C#\Console\LinQ\IEnumerable\obj\Debug\net8.0\ref\IEnumerable.dll
